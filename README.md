@@ -1,7 +1,6 @@
 ## Olá, sou Natasha Camargo! ✨ Hello, I'm Natasha Camargo!
 
 ✨Português
-- 😄 Ela/Dela
 - 🔭 Estagiária de TI no Conselho Regional de Engenharia do Rio de Janeiro (Crea-RJ)
 - 💬 Estudante de Análise e Desenvovlimento de Sistemas
 - 🌱 Estudando Front-end e Back-end
@@ -10,7 +9,6 @@
 - ⚡Meia maratonista 
    
 ✨ English
-  - 😄 She/Her
 - 🔭 IT Intern at the Regional Engineering Council of Rio de Janeiro (Crea-RJ)
 - 💬 Systems Analysis and Development Student
 - 🌱 Studying Front-end and Back-end
